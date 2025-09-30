@@ -35,8 +35,10 @@ To integrate and program temperature and accelerometer sensors in an embedded sy
 •	Print the final temperature and acceleration values.
  
 ## MATLAB CODE 
+<img width="1094" height="916" alt="image" src="https://github.com/user-attachments/assets/cb68518c-4a99-47ef-8a11-86c7a11954c6" />
 
 ## OUTPUT
+![exp_1 (1) (1)](https://github.com/user-attachments/assets/c43da52e-4462-411e-b4e7-7753f70c8362)
 
  
 ## RESULT
